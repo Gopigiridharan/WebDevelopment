@@ -1,0 +1,211 @@
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.logo {
+  width: 150px;
+  height: 50px;
+  margin-left: 60px;
+  margin-top: 9px;
+}
+.zoho,
+.web,
+.tamil {
+  text-align: center;
+  margin: 0;
+}
+.zoho {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.web {
+  font-size: 55px;
+  font-weight: 400;
+}
+.tamil {
+  font-weight: 400;
+}
+.icons {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 35px;
+}
+.icons a {
+  color: grey;
+  padding-left: 5px;
+  cursor: pointer;
+}
+.icons a:hover {
+  color: black;
+}
+.icons a:visited {
+  color: black;
+}
+a[title]:hover::after{
+  border-radius: 5px;;
+  padding: 10px;;
+  background-color: rgb(92, 92, 93);
+  color: white;
+}
+.job {
+  margin-top: 70px;
+  margin-left: 180px;
+  font-size: 19px;
+}
+.job .rose {
+  color: rgb(195, 64, 86);
+  opacity: 0.8;
+  cursor: pointer;
+}
+.auto {
+  color: rgb(255, 61, 61);
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+.upload {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 0;
+}
+.auto,
+.upload {
+  margin-left: 270px;
+}
+.uploadbox {
+  margin-top: 20px;
+  width: 480px;
+  border-radius: 13px;
+  border: 3px dashed rgb(187, 187, 187);
+  background-color: rgb(241, 241, 241);
+  text-align: center;
+  font-size: 14px;
+  padding: 5px;
+  margin-left: 270px;
+  display: inline-block;
+}
+.rose {
+  color: rgb(255, 61, 61);
+}
+.side,
+.sidep {
+  width: 400px;
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+}
+.apply {
+  padding: 5px 23px;
+  border: none;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(255, 61, 61);
+  margin-top: 7px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.perhead {
+  color: rgb(255, 61, 61);
+  margin-left: 270px;
+  font-size: 22px;
+}
+.perhead span {
+  font-size: 18px;
+}
+.name {
+  position: relative;
+  font-size: 18px;
+  margin-left: 270px;
+  margin-bottom: 4px;
+}
+.star {
+  position: absolute;
+  top: -9px;
+  color: rgb(255, 61, 61);
+  font-size: 27px;
+}
+select {
+  border: 2px solid rgb(187, 187, 187);
+  border-radius: 5px;
+  padding: 3px;
+  margin-left: 270px;
+  font-size: 17px;
+}
+.firstname {
+  width: 600px;
+  border: 2px solid rgb(187, 187, 187);
+  border-radius: 5px;
+  font-size: 17px;
+  padding: 3px;
+  outline: none;
+}
+.except {
+  border: 2px solid rgb(187, 187, 187);
+  border-radius: 5px;
+  padding: 2px;
+  font-size: 17px;
+  margin-left: 270px;
+  width: 693px;
+  outline: none;
+}
+.drop {
+  width: 700px;
+  outline: none;
+}
+input::placeholder {
+  font-size: 14px;
+  padding-left: 10px;
+}
+.resume {
+  width: 300px;
+  margin-left: 270px;
+  text-align: center;
+  width: 250px;
+  border-radius: 6px;
+  border: 2px dashed rgb(187, 187, 187);
+  background-color: rgb(241, 241, 241);
+  font-size: 14px;
+  font-weight: 400;
+  padding: 5px;
+  cursor: pointer;
+}
+.butapp {
+  text-align: center;
+  margin-top: 40px;
+}
+.cancel {
+  cursor: pointer;
+  border: none;
+  padding: 6px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.visit {
+  text-align: center;
+}
+.span {
+  color: rgb(255, 61, 61);
+  font-size: 16px;
+}
+.dot {
+  font-size: 30px;
+  color: rgb(187, 187, 187);
+}
+.logo2 {
+  width: 100px;
+  height: 27px;
+}
+.last {
+  text-align: center;
+}
+.pow {
+  font-size: 8px;
+  font-size: 500;
+}
+a,
+a:visited {
+  text-decoration: none;
+}
